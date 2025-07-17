@@ -2,6 +2,10 @@
 
 ## Installation
 
+
+https://github.com/user-attachments/assets/5537d17c-5433-4e63-ab9b-d8d33076f9b7
+
+
 Open Git bash and clone the repo
 
 ```sh
