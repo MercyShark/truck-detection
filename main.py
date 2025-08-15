@@ -5,6 +5,7 @@ import math
 
 model = YOLO("./weights/yolov8x.pt")
 camera = cv2.VideoCapture("./assets/demo3.mp4")
+print("Starting the yolo model")
 
 while True:
     success, image = camera.read()
